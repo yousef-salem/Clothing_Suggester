@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="the_suggested_clothes_for_this_city_today_is">the suggested clothes for this city today is :</string>
+    <string name="come_back">Come back tomorrow to find the suitable clothes for your city\'s weather</string>
+</resources>
